@@ -1,0 +1,7 @@
+__pycache__/*
+skills_memory.json
+skills_memory.corrupt.json
+token.json
+credentials.json
+job_posting.txt
+.env
